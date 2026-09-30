@@ -30,9 +30,9 @@ print("Quadratic Equation")
 x = int(input("Enter 'a' value: "))
 y = int(input("Enter 'b' value: "))
 
-result_1 = (x + y)**2
-result_2= (x - y)**2
-result_3= x**2 - y**2
+result_1 = x**2 + Y**2 + 2(x*y)
+result_2= x**2 + Y**2 - 2(x*y)
+result_3= (x-y)*(x+y)
 
 print("(a+b)^2 is ",result_1)
 print("(a-b)^2 is ",result_2)
