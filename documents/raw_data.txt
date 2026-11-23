@@ -1,0 +1,4 @@
+[INFO] System started
+[ERROR] Database failed 
+[INFO] User created 
+[ERROR] Network timeout 
