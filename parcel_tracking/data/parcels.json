@@ -74,11 +74,45 @@
     "destination": "salem",
     "parcel_type": "document",
     "weight": 1.7,
-    "status": "Registered",
+    "status": "Picked Up",
     "history": [
       {
         "status": "Resgistered",
         "timestamp": "13-11-26 07:48:PM"
+      },
+      {
+        "status": "Picked Up",
+        "timestamp": "25-11-26 07:14:PM"
+      }
+    ]
+  },
+  {
+    "tracking_id": "PKG1006",
+    "sender": "kamal",
+    "receiver": "kavi",
+    "destination": "salem",
+    "parcel_type": "documents",
+    "weight": 1.7,
+    "status": "Registered",
+    "history": [
+      {
+        "status": "Resgistered",
+        "timestamp": "17-11-26 07:57:PM"
+      }
+    ]
+  },
+  {
+    "tracking_id": "PKG1007",
+    "sender": "Alice",
+    "receiver": "Bob",
+    "destination": "chennai",
+    "parcel_type": "electronics",
+    "weight": 5.0,
+    "status": "Registered",
+    "history": [
+      {
+        "status": "Resgistered",
+        "timestamp": "25-11-26 07:04:PM"
       }
     ]
   }
